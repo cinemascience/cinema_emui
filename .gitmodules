@@ -1,0 +1,3 @@
+[submodule "cinema_scope"]
+	path = cinema_scope
+	url = git@github.com:cinemascience/cinema_scope.git
